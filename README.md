@@ -8,7 +8,6 @@
 - 대상 DB: PostgreSQL, MySQL, Presto/Athena
 
 ## 폴더 구조
-.
 ├─ playbook/SQL_플레이북_입문.md
 ├─ playbook/SQL_플레이북.md
 ├─ queries/
