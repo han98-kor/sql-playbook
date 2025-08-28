@@ -9,7 +9,7 @@
 
 ## 폴더 구조
 .
-├─ [SQL 플레이북 (입문용)](./playbook/SQL_플레이북_입문.md)
+├─ playbook/SQL_플레이북_입문.md
 ├─ playbook/SQL_플레이북.md
 ├─ queries/
 │  ├─ mobility_subway_congestion.sql
